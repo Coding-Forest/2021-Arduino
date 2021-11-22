@@ -2,8 +2,10 @@
 
 ## Index
 
+<a href='https://github.com/Coding-Forest/2021-Arduino/tree/main/Image%20trove' target='_blank'>[🌳Image trove]</a>
+
 1. [LED circuit with switch](#1)
-2. [Multi LED circuit with switch](#2)
+2. [Multi LED circuit with switch with IC](#2)
 3. [LED circuit with switch](#3)
 4. [LED circuit](#4)
 5. [Multi LED parallel circuit](#5)
@@ -25,7 +27,7 @@
 
 <br>
 
-### 2. <span id=2>Multi LED circuit with switch</span>
+### 2. <span id=2>Multi LED circuit with switch with IC</span>
 
 [[Top👆](#catalogue)]
 
