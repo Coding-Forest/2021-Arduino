@@ -3,11 +3,13 @@
 ## Index
 
 1. [LED circuit with switch](#1)
-2. [LED circuit](#2)
-3. [Multi LED parallel circuit](#3)
-4. [Multi LED parallel circuit with switch](#4)
-5. [Multi LED parallel circuit with switch](#5)
-6. [Remote multi LED parallel circuit with switch](#6)
+2. [Multi LED circuit with switch](#2)
+3. [LED circuit with switch](#3)
+4. [LED circuit](#4)
+5. [Multi LED parallel circuit](#5)
+6. [Multi LED parallel circuit with switch](#6)
+7. [Multi LED parallel circuit with switch](#7)
+8. [Remote multi LED parallel circuit with switch](#8)
 
 <br>
 
@@ -23,7 +25,23 @@
 
 <br>
 
-### 2. <span id=2>LED circuit</span>
+### 2. <span id=2>Multi LED circuit with switch</span>
+
+[[Top👆](#catalogue)]
+
+<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-LED-SW-MULTI-IC.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-LED-SW-MULTI-IC-D.png" width=500 /></span>
+
+<br>
+
+### 3. <span id=3>LED circuit with switch</span>
+
+[[Top👆](#catalogue)]
+
+<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-LED-SW-Q.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-LED-SW-Q-D.png" width=500 /></span>
+
+<br>
+
+### 4. <span id=4>LED circuit</span>
 
 [[Top👆](#catalogue)]
 
@@ -31,34 +49,34 @@
 
 <br>
 
-### 3. <span id=3>Multi LED parallel circuit</span>
+### 5. <span id=5>Multi LED parallel circuit</span>
 
 [[Top👆](#catalogue)]
 
-<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-MULTI-SW.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-MULTI-D.png" width=500 /></span>
+<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-MULTI.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-MULTI-D.png" width=500 /></span>
 
 <br>
 
-### 4. <span id=4>Multi LED parallel circuit with switch</span>
+### 6. <span id=6>Multi LED parallel circuit with switch</span>
 
 [[Top👆](#catalogue)]
 
-<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-MULTI.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-MULTI-SW-D.png" width=500 /></span>
+<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-MULTI-SW.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-MULTI-SW-D.png" width=500 /></span>
 
 <br>
 
-### 5. <span id=5>Multi LED parallel circuit with switch</span>
+### 7. <span id=7>Multi LED parallel circuit with switch</span>
 
 [[Top👆](#catalogue)]
 
-<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-SW-MULTI-REMOTE.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-SW-MULTI-D.png" width=500 /></span>
+<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-SW-MULTI.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-SW-MULTI-D.png" width=500 /></span>
 
 <br>
 
-### 6. <span id=6>Remote multi LED parallel circuit with switch</span>
+### 8. <span id=8>Remote multi LED parallel circuit with switch</span>
 
 [[Top👆](#catalogue)]
 
-<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-SW-MULTI.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-SW-MULTI-REMOTE-D.png" width=500 /></span>
+<span><img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-SW-MULTI-REMOTE.jpg" width=500 /> <img src="https://raw.githubusercontent.com/Coding-Forest/2021-Arduino/main/Image%20trove/CIR-PR-LED-SW-MULTI-REMOTE-D.png" width=500 /></span>
 
 <br>
