@@ -25,6 +25,7 @@ units:
 <br>
 
 ### **Project** 
+
 Ben Eater (2015) Learn how computers add numbers and build a 4 bit adder circuit https://www.youtube.com/watch?v=wvJc9CZcvBc&ab_channel=BenEater
 
 parts required: IC
@@ -45,14 +46,18 @@ model: DM74LS32 Quad 2-input OR gate
 
 <br>
 
+### **Project** 
 
-parts required:  
+element14 presents (2019) How To Drive A 7-segment Display - The Learning Circuit https://www.youtube.com/watch?v=XCJqoae4hgY&t=284s&ab_channel=element14presents
+
+
+parts required:  SN74LS47N 
 units:   
 
 <br>
 
 
-parts required:  
+parts required:  7 segment display
 units:   
 
 <br>
